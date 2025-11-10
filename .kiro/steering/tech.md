@@ -11,6 +11,8 @@
 - **VSCode**: Recommended IDE with Python extensions
 
 ## Common Commands
+### Python
+- always use python instead of python3
 
 ### Environment Setup
 ```bash
